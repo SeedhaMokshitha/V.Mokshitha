@@ -1,1 +1,11 @@
 # V.Mokshitha
+"https://github.com/seedhamokshitha-a11y/Hospital-Billing.git",
+"https://github.com/seedhamokshitha-a11y/-Railway-Fare-and-Reservation-Calculator.git",
+"https://github.com/seedhamokshitha-a11y/Password-Policy-Validation-Engine.git",
+"https://github.com/seedhamokshitha-a11y/ATM.git",
+"https://github.com/SeedhaMokshitha/Smart-Parking-Fee-Management.git",
+"https://github.com/SeedhaMokshitha/smart-electricity-billing-for-multiple-apartments.git",
+"https://github.com/SeedhaMokshitha/Weekly-Electricity-Consumption-Matrix.git:,
+"https://github.com/SeedhaMokshitha/-Smart-Public-Transport-Fare-Reconciliation.git",
+"https://github.com/SeedhaMokshitha/Environmental-Monitoring-Data-Analyzer.git:,
+"https://github.com/SeedhaMokshitha/Food-Supply-Chain-Stock-Reconciliation.git",
